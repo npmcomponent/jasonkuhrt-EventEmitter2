@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [jasonkuhrt/eventemitter2](http://github.com/jasonkuhrt/eventemitter2). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/jasonkuhrt-eventemitter2`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # EventEmitter2
 
 EventEmitter2 is an implementation of the EventEmitter found in Node.js
